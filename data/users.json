@@ -1,0 +1,16 @@
+[
+    {
+        "mail": "admin@admin.com",
+        "pass": "Admin123",
+        "sex": "male",
+        "subscribe": "no",
+        "avatar": "avatars\/admin.gif"
+    },
+    {
+        "mail": "sponge@bob.com",
+        "pass": "Gubka123",
+        "sex": "male",
+        "subscribe": "yes",
+        "avatar": "avatars\/bob.jpg"
+    }
+]
